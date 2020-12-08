@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+    <title>Practice</title>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            
+            .h2{
+                font-family: Courier New, monospace;
+            font-weight :100;
+             font-size: 130%;
+            }
+      div.a{
+          color: white;
+          background-color:rgba(0, 0, 0, 0.849); 
+          padding:110px;
+         width: 470px;
+          height:170px;
+          margin: auto;
+          position: absolute;
+          right: 25%;
+          border-radius: 10%;
+          font-family: Courier New, monospace;
+        font-weight :100;
+        font-size: 150%;
+         
+      }
+      div.b{
+          clip-path: polygon(0 13%,100% 0,100% 85% , 0 100%);
+          background-color: pink;
+          margin:auto;
+          padding:115px;
+          border:0;
+          outline:0;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          top: 48%;
+          border:1px blue;
+          text-align: center;
+      }
+      div.c{
+          color: white;
+          background-color:rgba(0, 0, 0, 0.815);
+          clip-path: polygon(0 20%,100% 0,100% 90% , 0 100%);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          top: 122%;
+          text-align: center;
+      }
+      div.d{
+          background-color:rgba(255, 192, 203, 0.849);
+          clip-path: polygon(0 10%,100% 0,100% 85% , 0 100%);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          top: 185%;
+      }
+      div.e{
+          color: white;
+          background-color:rgba(255, 105, 180, 0.849);
+          clip-path: polygon(0 15%,100% 0,100% 90% , 0 100%);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+         position: absolute;
+          right: 25%;
+          top: 246%;
+          text-align: center;
+      }
+      div.f{
+        clip-path: polygon(0 10%,100% 0,100% 85% , 0 100%);
+          background-color:rgb(173, 216, 230);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          bottom: -279%;
+      }
+      div.g{
+        clip-path: polygon(0 13%,100% 0,100% 85% , 0 100%);
+          background-color:rgba(0, 0, 0, 0.685);
+          color: white;
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          bottom: -353%;
+          text-align: center;
+      }
+      div.h{
+        clip-path: polygon(0 16%,100% 0,100% 87% , 0 100%);
+          background-color:purple;
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          bottom: -410%;
+      }
+      div.i{
+        clip-path: polygon(0 16%,100% 0,100% 85% , 0 100%);
+          background-color:rgb(255, 182, 193);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+          position: absolute;
+          right: 25%;
+          bottom:-463%;
+      }
+      div.j{
+        clip-path: polygon(0 12%,100% 0,100% 100% , 0 100%);
+          background-color:rgba(173, 217, 230, 0.822);
+          margin:auto;
+          padding:115px;
+          width: 460px;
+         position: absolute;
+          right: 25%;
+          bottom: -549%;
+      }
+      .address{
+          display: inline-block;
+        
+      }
+      .add{
+          display: inline-block;
+      
+      }
+      .font{
+        font-family: Courier New, monospace;
+        font-weight :200;
+      font-size: 200%;
+      }
+      .font1{
+          font-family: Snell Roundhand, monospace;
+          font-weight :300;
+          font-size: 120%;
+      }
+      .font2{
+           font-family: serif,monospace;
+           font-weight :100;
+           font-size: 85%;
+      }
+      .font3{
+          font-family: Andale Mono, monospace;
+          font-weight :100;
+           font-size: 170%;
+          
+      }
+      .font4{
+          font-family: Bookman, URW Bookman L, serif;
+          font-weight :100;
+           font-size: 173%;
+      }
+      .font5{
+          font-family: Didot, serif;
+          font-weight :100;
+           font-size: 100%;
+           color: gray;
+      }
+        </style>
+    </head>
+    <body>
+        <div class="border">
+        <div class = "a"  >
+            <h2 class="h2"> SCROLLING IN WEB DESIGN</h2>
+             THE LONG  &  THE SHORT OF IT
+        </div>
+        <div class="b">
+          <h2 class="font">LONG SCROLL:</h2><h4 class="font1"> THE GOOD STUFF</h4>
+            <h3 class="font1">VISUAL CREATIVITY</h3>
+            <p class="font2">
+             There's more visual freedom in parallel website design, Rather then<br>
+             focusing an block style information architecture, you can create<br>
+             refreshing and engaging visuals such as animations or beautiful<br>
+             photography, that act as a continum, ultimately inspring users to<br>
+             scroll futher down the page.
+            </p>
+        </div>
+        <div class="c">
+            <h2 class="font3">STORY-TELLING<BR>OPPORTUNITIES</h2>
+              <p class="font2">  Do you want to tell a story eith your product or service?<br>
+                long scrolling lends itself well to a narrative and<br>
+                encourages meaningful interation from users. 
+        </p>
+            </div>
+        <div class="d">
+            <h2 class="font3">SIMPLE INTERFACE FOR<br>
+                SMART DEVICE USERS</h2>
+           <p class="font2">  Mobile and tablets have evolved the way we engage in websites. It's<br>
+             now less about clicking and more about scrolling, swiping and tapping,<br>
+             Long-scrolling websites take away the barrier of complex navigation,<br>
+             providing a responsive,userfriendly experience for mobile users.</p>
+        </div>
+        <div class="e">
+            <h2 class="font3">PUNCHY,STRAIGHT TO<br>THE POINT MESSAGING</h2>
+            <p class="font2"> Parallax website design is a great solution for us time-poor<br>
+            website browsers, as it forces businesses to conver their<br>
+            message and vision into one dynamic web design page.</p>
+        </div>
+         <div class="f">
+             <h2 class="font3">EASIER FOR USERS TO<br>REALISE THEIR GOAL</h2>
+          <p class="font2"> These days, Scrolling is so simple that iy's become an<br>
+            instinctive action, whereas clicking through to another page<br>
+            requries through and motivation. A single page website<br>
+            allows user to identifies their purposeon the website quicker<br>
+            that needing to still through multiple pages.</p>
+            </div>
+            <div class="g">
+                <h2 class="font3" style="color: pink;">LONG SCROLL:</h2><h4 style="color: white;">THE NOT SO GOOD STUFF</h4>
+            <h3 class="font1" style="color: pink;">YOU NEED TO BE SEARCH ENGINE SAVVY</h3>
+          <p class="font2" style="color: pink;"> One of the biggest problems that parallax websites face is that<br>
+            they are not SEO friendly.Why?When you limit the number of<br>
+            pages on your website,Google has lowe pages to index and<br>
+            negatively impacts your standing on the search engine results<br>
+            page(SFRP).Luckily there are ways around this.</p>
+            </div>
+            <div class="h">
+                <h2 class="font4">SLOWER LOAD TIMES</h2>
+               <p class="font2">50% of wesites users bounce of the page if it hasn't loaded<br>in 3.5 seconds.
+                So the more high resolution imagery and<br> animation you include, the longest
+                it takes to load the page.<br> When writing this article, we listed some popular
+                parallax<br>websites, and found that the ones with complex visuals took<br> up to 30 
+                seconds to load on a mobile device, whereas simple<br>and minimal long scroll websites
+                loaded with a few seconds.</p>
+            </div>
+            <div class="i">
+                <h2 class="font4">AWKWARD NAVIGATION</h2>
+              <p class="font2"> Instead of hitting the "back" button, users must scroll back<br>
+                up the page which can be frustrating for users who want to<br>
+                refer back to a certain element. An easy way around this is<br>
+                to include top navigation and have each element anchored<br>
+                to a category or section.</p>
+            </div>
+            <div class="j">
+                <div class="add">
+            <p class="font5"> As one of Brisbane's leading full service digital and creative<br>
+                agencies, ifactory will help you achieve a digital solution that<br>
+                blends the needs of your business with that of your target<br>
+                audience. Our eclectic mix of digital designers, web developers<br>
+                and digital marketing specialists come together for one<br>
+                purpose - to provide intelligent digital solution based on your<br>
+                business needs.<br></p>
+           
+            <a href="link">http://ifactory.com.au/news/scrolling-web-design-long-and-short-it</a>
+                </div>
+            <div class="address"> <h4>IFACTORY<br></h4>
+             <p class="font2">  99 MURRAY Street Bowen Hills<br>
+               Brisbane OLD Australia 4006<br>
+               Phone: +61 73844 0577<br>
+               info@ifactory.com.au</p></div>
+               </div>
+   </div>
+        </body>
+</html>
